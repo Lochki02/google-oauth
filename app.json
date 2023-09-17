@@ -8,6 +8,17 @@
       "expo-router"
     ],
     "name": "legalone",
-    "slug": "legalone"
+    "slug": "legalone",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "ad970183-423b-4150-8187-7127794e3a3e"
+      }
+    },
+    "android": {
+      "package": "com.lochki.legalone"
+    }
   }
 }
